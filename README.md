@@ -1,5 +1,5 @@
 
-# Fernando Silva - Especialista de Redes e Automação
+# Fernando Silva - Infra, Redes, Cloud e Automação
 
 Desde 2015 atuo em redes de médio a grande porte envolvendo tecnologias e vendors para ambientes de escritórios, data centers e telecom possuo um forte background em arquitetura, design, implementação e sustentação de diversos vendors e tecnologias, o que me permitiu em 2021 aprofundar meus skills no mundo de software e devops, trazendo conceitos, metodologias e principalmente a automação para o mundo de redes.
 
